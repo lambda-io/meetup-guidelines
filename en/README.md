@@ -3,6 +3,8 @@
 > This repo contains a manual on how Lambda I/O meetups work, what you need to
 do in order to organize one and how to get started.
 
+![Our Logo](https://raw.githubusercontent.com/lambda-io/manifest/master/banner.png)
+
 ## Table of Contents
 
 - []()
